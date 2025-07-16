@@ -4,7 +4,7 @@ This is a personal **DevOps portfolio website** built using HTML and CSS to show
 
 ## 🌐 Live Website
 
-🔗 [View Portfolio](https://navyakallam.github.io/devops-portfolio/)
+🔗 [View Portfolio] (https://navyakallam.github.io/DevOps-Portfolio/)
 
 ---
 
